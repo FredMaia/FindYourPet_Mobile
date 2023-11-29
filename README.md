@@ -26,7 +26,7 @@ The "Find Your Pet" app is a platform built to help reunite lost pets with their
 ## How to Run it
 
 1. Make sure you have [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [ExpoCLI](https://docs.expo.dev/more/expo-cli/) installed.
-2. Run backend server. You can checkout the backend repository by clicking [here](https://github.com/FredMaia/FindYourPet-Backend)
+2. Run backend server. You can checkout the backend repository by clicking [here](https://github.com/FredMaia/FindYourPet_Backend)
 3. To configure the axios requests to backend, you need to put your IPv4 in the .env file.
 4. Navigate to the mobile app directory.
 5. Run the following commands:
