@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Find Your Pet" app is a platform built to help reunite lost pets with their owners. Leveraging the power of React Native for the mobile interface, Express for the backend, and MongoDB for data storage, the app provides a seamless experience for users looking to connect with pet owners in their local area.
+The "Find Your Pet" app is a platform built to help reunite lost pets with their owners. Using React Native for the mobile interface, Express and MongoDB for the backend, the app provides a seamless experience for users looking to connect with pet owners in their local area. The app's core functionality revolves around enabling users to report lost or found pets, browse through listings in their local area, and connect with pet owners to facilitate a reunion.
 
 <br>
 <br>
